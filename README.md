@@ -17,3 +17,8 @@ The runtime-option "--number N" specifies the order of the Sierpinski curve.
 The curve is written to the file named XYZ, as specified in "--output XYZ".
 
 Please direct bug reports or suggestions to Martin Held at held@cs.sbg.ac.at.
+
+# License
+
+This is free software.  You may redistribute it and/or modify
+it under the terms of the GNU General Public License (v3).
